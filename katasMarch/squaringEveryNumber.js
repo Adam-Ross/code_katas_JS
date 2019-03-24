@@ -15,4 +15,9 @@ function squareNumbers(number) {
   return final;
 }
 
+
+function square(number) {
+  
+}
+
 console.log(squareNumbers(numbers));
